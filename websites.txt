@@ -2,3 +2,7 @@ http://www.jetbrains.com/research/python-developers-survey-2017
 
 #crossin破译朋友圈测试小游戏/
 https://mp.weixin.qq.com/s/18rAxUlxMW5bBY7BGugXHA
+
+#Good jupyter notes
+https://github.com/pjpmarques/Julia-Modeling-the-World.git
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks

@@ -1,0 +1,3 @@
+[submodule "NewFTP"]
+	path = NewFTP
+	url = https://github.com/AllanChain/NewFTP.git

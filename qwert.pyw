@@ -10,7 +10,7 @@ def get_date():
     sd='0'+str(d.day)if d.day<10 else str(d.day)
     s=str(d.year)+sm+sd
     return s
-dirs='E:\\desktop\\%s\\'%get_date()
+dirs='D:\\Desktop\\%s\\'%get_date()
 if not os.path.isdir(dirs):
     os.mkdir(dirs)
 os.chdir(dirs)
